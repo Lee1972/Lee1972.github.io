@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-https://github.com/Lee1972/Lee1972.github.io/edit/master/index.html
+https://github.com/Lee1972/Lee1972.github.io/index.html
 
 You can use the [editor on GitHub](https://github.com/Lee1972/Lee1972.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
